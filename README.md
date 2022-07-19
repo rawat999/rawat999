@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prem Singh Rawat who have 9 months Data Science industry experience.
+- 👋 Hi, I’m Prem Singh Rawat who have more than 15 months Data Science industry experience.
 - 👀 I’m interested in exploring the world of data.
 - 🤠 I have knowledge of Machine Learning, Deep Learning, Statistical modelling and testing, Computer Vision and NLP.
 - 🌱 I’m currently learning Django and AWS.
