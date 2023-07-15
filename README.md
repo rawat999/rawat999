@@ -8,8 +8,6 @@
 
 👯 I'm interested in learning, coding, and collaborating with fellow enthusiasts in the field of Data Science. If you have an idea related to my areas of interest or novel AI product, feel free to shoot me an [email](mailto:prem.rawat.ai@gmail.com)! 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
 ### Bio
 
 🧠 Currently, I work with Central Data Team of Fintech Startup at [Protium Finance Limited](https://protium.co.in/) to automate the everyday mannual reporting workflows via Power BI, Power Automate, DBT and Airflow. 
@@ -22,8 +20,6 @@
 🎓 I certified [TensorFlow - Developer](https://www.coursera.org/account/accomplishments/professional-cert/NQHAR8NFL27W) from the [Coursera - DeepLearning.AI](https://www.coursera.org/), Deep Learning and Applied NLP from the [Swayam-NPTEL](https://swayam.gov.in/)
 
 📚 I am a distinguished alumnus of the [Central University of Rajasthan](https://www.curaj.ac.in/), one of the modern, dynamic and vibrant university in the India. Also, alumunus of the [Jawahar Navodaya Vidyalaya](https://www.navodaya.gov.in/nvs/nvs-school/Ajmer/en/about_us/About-JNV/), top district level CBSE school in the India.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### Connect
 
