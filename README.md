@@ -8,6 +8,7 @@
 
 👯 I'm interested in learning, coding, and collaborating with fellow enthusiasts in the field of Data Science. If you have an idea related to my areas of interest or novel AI product, feel free to shoot me an [email](mailto:prem.rawat.ai@gmail.com)! 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### Bio
 
@@ -22,9 +23,13 @@
 
 📚 I am a distinguished alumnus of the [Central University of Rajasthan](https://www.curaj.ac.in/), one of the modern, dynamic and vibrant university in the India. Also, alumunus of the [Jawahar Navodaya Vidyalaya](https://www.navodaya.gov.in/nvs/nvs-school/Ajmer/en/about_us/About-JNV/), top district level CBSE school in the India.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
 ### Connect
 
 [![Gmail Badge](https://img.shields.io/badge/-MAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prem.rawat.ai@gmail.com)](mailto:prem.rawat.ai@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prem-rawat/)](https://www.linkedin.com/in/prem-rawat/) [![Instagram Badge](https://img.shields.io/badge/-INSTAGRAM-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/maddhruv)](https://www.instagram.com/imrawat999/)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ### GitHub Stats
 
@@ -38,3 +43,5 @@
 </td>
   </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
